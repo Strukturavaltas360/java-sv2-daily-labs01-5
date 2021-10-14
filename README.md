@@ -1,1 +1,1 @@
-# java-sv2-daily-labs01
+# A Struktúraváltás 2.0 konzultáción elhangzó feladatainak megoldása
